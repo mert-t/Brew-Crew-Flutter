@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "419493674097",
+    "project_id": "mert-brew-crew",
+    "storage_bucket": "mert-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419493674097:android:4eeff6f8986f64a6c12fd0",
+        "android_client_info": {
+          "package_name": "com.mert.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419493674097-38f33pqgar333uf1i86fd56rpr1lhplq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKOqFKqgwQJBwaRbnniqnb2VZ70zUz4b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419493674097-38f33pqgar333uf1i86fd56rpr1lhplq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
