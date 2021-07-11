@@ -1,6 +1,10 @@
-# brew_crew
+## Brew Crew Coffee App
 
-A new Flutter project.
+This app was made using Flutter and Firebase.
+You can download this project and work on this.
+I fixed some bugs and uploaded.
+
+Thanks to @iamshaunjp
 
 ## Getting Started
 
